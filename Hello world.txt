@@ -1,5 +1,7 @@
-Print("Hello world")
-Print("Hello everybody")
-Print("Hello")
-Print("Hi my dear friend")
-Print("Daddy")
+<<<<<<< HEAD
+Print("Hello world;")
+Print("Hello everybody;")
+Print("Hello;")
+Print("Hi my dear friend;")
+Print("Daddy;")
+
